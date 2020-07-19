@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+(General Kenobi)
+
+I am a HS developer that spends time making random and (mostly) useless stuff. The lastest of which is my [Discord Bot](https://github.com/Roxiun/RoxBot).
 
 <!--
 **Roxiun/Roxiun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
