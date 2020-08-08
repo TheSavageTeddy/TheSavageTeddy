@@ -3,8 +3,8 @@
 
 I am a HS developer that spends time making random and (mostly) useless stuff. The lastest of which is my [Discord Bot](https://github.com/Roxiun/RoxBot).
 
-![Roxiun's github stats](https://github-readme-stats.vercel.app/api?username=roxiun&count_private=true&include_all_commits=true&show_icons=true&theme=radical)(https://github.com/Roxiun)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roxiun&layout=compact)](https://github.com/Roxiun/)
+![Roxiun's github stats](https://github-readme-stats.vercel.app/api?username=roxiun&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roxiun&layout=compact&theme=radical)]
 
 <!--
 **Roxiun/Roxiun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
