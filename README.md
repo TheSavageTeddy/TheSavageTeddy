@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello There! <img src="https://github.com/Roxiun/Roxiun/blob/master/general_kenobi.png?raw=trueobi.png" width="30px"></h2>
+  <h1> Hello There! <img src="https://github.com/Roxiun/Roxiun/blob/master/img/general_kenobi.png?raw=true" width="30px"></h2>
 </div>
 
 I am a HS developer that spends time making random and (mostly) useless stuff. The lastest of which is my [Discord Bot](https://github.com/Roxiun/RoxBot).
