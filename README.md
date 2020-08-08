@@ -1,5 +1,6 @@
-### Hello there 👋
-(General Kenobi)
+<div align="center">
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/Roxiun/Roxiun/master/general_kenobi.png" width="30px"></h2>
+</div>
 
 I am a HS developer that spends time making random and (mostly) useless stuff. The lastest of which is my [Discord Bot](https://github.com/Roxiun/RoxBot).
 
