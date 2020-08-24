@@ -4,7 +4,7 @@
 
 I am a teddy who happens to have a youtube channel. I like to coding. Check this **[chrome extension](https://chrome.google.com/webstore/detail/tetrain/ahekimalhnapoaonpjnfmkncjehligge)** me and @Roxiun made.
 
-My primary languages are Python and Javascript. I also know a bunch more languages such as C, Java, Typescript, ASM, PHP and Objective-C
+i mainly do python and javascript, as well as some css and html
 
 ![TheSavageTeddy's github stats](https://github-readme-stats.vercel.app/api?username=thesavageteddy&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
