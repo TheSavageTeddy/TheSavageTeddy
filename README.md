@@ -4,7 +4,7 @@
 
 I am a teddy who happens to have a **[youtube channel](https://youtube.com/thesavageteddy)**. I like to coding. Check this **[chrome extension](https://chrome.google.com/webstore/detail/tetrain/ahekimalhnapoaonpjnfmkncjehligge)** me and @Roxiun made.
 
-i mainly do python and javascript, as well as some css and html
+i mainly do python and javascript, as well as some css and html. reeeeeee
 
 ![TheSavageTeddy's github stats](https://github-readme-stats.vercel.app/api?username=thesavageteddy&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
@@ -19,6 +19,6 @@ HOW TO ADD TO YOUR OWN PROFILE
 1. Fork this repo and name it your GitHub username
 2. Edit the stats link with your username
 3. Edit your description
-NOTE: YOU MUST LEAVE IN THE MADE BY ROXIUN TEXT, IT IS REQUIRED BY THE LICENSE
+NOTE: YOU MUST LEAVE IN THE MADE BY ROXIUN TEXT, IT IS REQUIRED BY THE LICENSE also roxiun is bad
 --->
 
