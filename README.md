@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> hi im a teddy! <img src="https://github.com/TheSavageTeddy/TheSavageTeddy/blob/master/img/teddy!.jpg" height= 50px width= 50px></h2>
+  <h1> <img src="https://github.com/TheSavageTeddy/TheSavageTeddy/blob/master/img/teddy!.jpg" height= 50px width= 50px> hi im a teddy! <img src="https://github.com/TheSavageTeddy/TheSavageTeddy/blob/master/img/teddy!.jpg" height= 50px width= 50px></h1>
 </div>
 
 I am a teddy who happens to have a youtube channel. I like to coding. Check this **[chrome extension](https://chrome.google.com/webstore/detail/tetrain/ahekimalhnapoaonpjnfmkncjehligge)** me and @Roxiun made.
