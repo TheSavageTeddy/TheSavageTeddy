@@ -4,7 +4,9 @@
 
 I am a teddy who happens to have a **[youtube channel](https://youtube.com/thesavageteddy)**. I like to coding. Check this **[chrome extension](https://chrome.google.com/webstore/detail/tetrain/ahekimalhnapoaonpjnfmkncjehligge)** me and **[Roxiun](https://github.com/Roxiun)** made. 
 
-i mainly do python and javascript, as well as some css and html. reeeeeee
+i suck at coding but i do lots of python, and have basic knowldge of html js css yeah those stuff. reee
+
+i like cryptogrpahy and forensics
 
 ![TheSavageTeddy's github stats](https://github-readme-stats.vercel.app/api?username=thesavageteddy&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
