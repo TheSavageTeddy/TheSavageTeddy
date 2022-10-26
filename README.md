@@ -4,7 +4,7 @@
 
 i happens to have a (dead) **[youtube channel](https://youtube.com/thesavageteddy)**. I like to coding. Check this **[chrome extension](https://chrome.google.com/webstore/detail/tetrain/ahekimalhnapoaonpjnfmkncjehligge)** me and **[Roxiun](https://github.com/Roxiun)** made. 
 
-i suck at coding but i do lots of python, and a lot of ctfs
+i suck at coding but i do lots of python, and a **lot** of ctfs (with PissedEmu!!)
 
 i like cryptogrpahy and forensics, but hard math is too hard and macbook architecture sucks they support nothing :(
 yo im learning pwn now (binary exploitation)
