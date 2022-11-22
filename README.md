@@ -1,17 +1,10 @@
 <div align="center">
  <h1>hi!</h1>
 </div>
+## i like to code!
+my specialty is coding in python in a sophisticated way, and also making random programs and tools. they are mostly one time scripts to solve ctfs challenges.
 
-i happens to have a (dead) **[youtube channel](https://youtube.com/thesavageteddy)**. I like to coding. Check this **[chrome extension](https://chrome.google.com/webstore/detail/tetrain/ahekimalhnapoaonpjnfmkncjehligge)** me and **[Roxiun](https://github.com/Roxiun)** made. 
-
-i suck at coding but i do lots of python, and a **lot** of ctfs (with PissedEmu!!)
-
-i like cryptogrpahy and forensics, but hard math is too hard and macbook architecture sucks they support nothing :(
-yo im learning pwn now (binary exploitation)
-
-![TheSavageTeddy's github stats](https://github-readme-stats.vercel.app/api?username=thesavageteddy&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesavageteddy&theme=radical)
-
-
-
+## PissedEmu team member (#1 aus ctf team)
+i do cryptography, a bit of forensics, currently learning pwn and rev.
+i like to do ctfs a lot. 
+check out this **[chrome extension](https://chrome.google.com/webstore/detail/tetrain/ahekimalhnapoaonpjnfmkncjehligge)** me and **[Roxiun](https://github.com/Roxiun)** made.
