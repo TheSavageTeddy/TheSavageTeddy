@@ -6,5 +6,5 @@
 my specialty is coding in python in a sophisticated way, and also making random programs and tools. they are mostly one time scripts to solve ctfs challenges.
 
 ## PissedEmu team member (#1 aus ctf team)
-i do cryptography, a bit of forensics, currently learning pwn and rev.
+i generally do all categories! started with crypto, currently learning pwn and rev.
 i like to do ctfs a lot. 
